@@ -1,0 +1,4 @@
+Change Makefile to reflect your directory structure.
+
+Run 'make all' and then 'make install'.
+
