@@ -1,5 +1,5 @@
 JIPS ImageJ (Microscopy) Plugin Suite
-@author Juuso Korhonen (jk.lic@turqoosi.net)
+@author Juuso Korhonen (jk.lic at_server turqoosi.net)
 See LICENSE for details about license.
 
 JIPS contains plugins for the image manipulation program called ImageJ.
